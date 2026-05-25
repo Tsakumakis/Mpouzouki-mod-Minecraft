@@ -1,3 +1,8 @@
 {
-  "song 1":
+  "song_1": {
+    "subtitle": "sound.mpouzoukimod.song_1",
+    "sounds": [
+      "mpouzoukimod:song_1"
+    ]
+  }
 }
