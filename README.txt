@@ -1,3 +1,30 @@
+#Mpouzouki Mod
+
+## Version: 
+Minecraft: 1.21.1
+Forge: 52.1.0
+Java: 25.0.3
+
+## Description: 
+Πανεπιστιμιακή εργασία java Ιονίου Πανεπιστιμίου 2026, by Κωνσταντίνος Δημητρακόπουλος
+
+## Lore: 
+Θρύλοι λένε πως τα εγκαταλελειμμένα πλοία που ξεβράστηκαν στις ακτές ανήκαν σε Έλληνες ναυτικούς. Μαζί τους έφεραν τον ρυθμό, το κέφι και την παράδοση, αφήνοντας πίσω τους τα πρώτα μπουζούκια στον κόσμο του Minecraft.
+
+##Video Description
+
+##Screenshots Features
+###Mpouzouki
+
+###Paneri
+
+###Kantini,Mesiani,Mpasa
+
+###Pista Block
+
+
+##Tested
+This mod was successfully tested in a windows 11 machine
 
 Source installation information for modders
 -------------------------------------------
@@ -30,17 +57,6 @@ If at any point you are missing libraries in your IDE, or you've run into proble
 run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
 (this does not affect your code) and then start the process again.
 
-Mapping Names:
-=============================
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license, if you do not agree with it you can change your mapping names to other crowdsourced names in your 
-build.gradle. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/MinecraftForge/MCPConfig/blob/master/Mojang.md
+======================
 
-Additional Resources: 
-=========================
-Community Documentation: https://docs.minecraftforge.net/en/latest/gettingstarted/
-LexManos' Install Video: https://youtu.be/8VEdtQLuLO0
-Forge Forums: https://forums.minecraftforge.net/
-Forge Discord: https://discord.minecraftforge.net/
+Lore:
