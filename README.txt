@@ -1,29 +1,31 @@
-#Mpouzouki Mod
+<font size="6">MPOUZOUKI MOD</font>
 
-## Version: 
+<font size="5">Versions</font> 
 Minecraft: 1.21.1
 Forge: 52.1.0
 Java: 25.0.3
 
-## Description: 
+<font size="5">Description</font>
 Πανεπιστιμιακή εργασία java Ιονίου Πανεπιστιμίου 2026, by Κωνσταντίνος Δημητρακόπουλος
 
-## Lore: 
+<font size="5">Lore</font> 
 Θρύλοι λένε πως τα εγκαταλελειμμένα πλοία που ξεβράστηκαν στις ακτές ανήκαν σε Έλληνες ναυτικούς. Μαζί τους έφεραν τον ρυθμό, το κέφι και την παράδοση, αφήνοντας πίσω τους τα πρώτα μπουζούκια στον κόσμο του Minecraft.
 
-##Video Description
+<font size="5">Video Description</font>
 
-##Screenshots Features
-###Mpouzouki
+<font size="5">Screenshots</font>
+<font size="3">MPOUZOUKI</font>
+The instrument
 
-###Paneri
+<font size="3">Paneri</font>
+the basket which holds the flowers and shoots them!
 
-###Kantini,Mesiani,Mpasa
+<font size="3">Kantini,Mesiani,Mpasa</font>
+the strings of the instrument. Kantini being the smallest and most thin, Mesiani being in the middle, and Mpasa being the Big and Thick string
 
-###Pista Block
+<font size="3">Mitropanos villager</font>
 
-
-##Tested
+<font size="5">MPOUZOUKI MOD</font>
 This mod was successfully tested in a windows 11 machine
 
 Source installation information for modders
