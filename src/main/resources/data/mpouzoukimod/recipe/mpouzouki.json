@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "mpouzoukimod:kantini"
+    },
+    "B": {
+      "item": "mpouzoukimod:mesiani"
+    },
+    "C": {
+      "item": "mpouzoukimod:mpasa"
+    },
+    "X": {
+      "item": "minecraft:oak_planks"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "X Y",
+    "ABC",
+    "X Y"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mpouzoukimod:mpouzouki"
+  }
+}

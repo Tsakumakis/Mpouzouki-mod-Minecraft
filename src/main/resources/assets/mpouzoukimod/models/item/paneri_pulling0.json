@@ -1,0 +1,6 @@
+{
+  "parent": "mpouzoukimod:item/paneri",
+  "textures": {
+    "layer0": "mpouzoukimod:item/paneri_pulling0"
+  }
+}

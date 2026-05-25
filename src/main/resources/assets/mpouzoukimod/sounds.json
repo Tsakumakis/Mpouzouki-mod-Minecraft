@@ -1,0 +1,12 @@
+{
+  "song_1": {
+    "category": "player",
+    "subtitle": "mpouzoukimod.subtitle.song_1",
+    "sounds": [
+      {
+        "name": "mpouzoukimod:song_1",
+        "stream": true
+      }
+    ]
+  }
+}
