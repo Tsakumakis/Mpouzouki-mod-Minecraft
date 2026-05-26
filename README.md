@@ -18,12 +18,12 @@
 
 ### MPOUZOUKI
 The instrument
-![mpouzouki](mpouzouki.png)
+![mpouzouki](img/mpouzouki.png)
 
 
 ### Paneri
 the basket which holds the flowers and shoots them!
-
+![Paneri](paneri.png)
 
 ### Kantini, Mesiani, Mpasa
 the strings of the instrument. Kantini being the smallest and most thin, Mesiani being in the middle, and Mpasa being the Big and Thick string
