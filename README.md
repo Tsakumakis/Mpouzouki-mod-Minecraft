@@ -12,16 +12,18 @@
 Θρύλοι λένε πως τα εγκαταλελειμμένα πλοία που ξεβράστηκαν στις ακτές ανήκαν σε Έλληνες ναυτικούς. Μαζί τους έφεραν τον ρυθμό, το κέφι και την παράδοση, αφήνοντας πίσω τους τα πρώτα μπουζούκια στον κόσμο του Minecraft.
 
 ## Video Description
-[title](https://youtu.be/aue-rYwioe0)
+[Video Demonstration](https://youtu.be/aue-rYwioe0)
 
 ## Screenshots
 
 ### MPOUZOUKI
 The instrument
+![mpouzouki](mpouzouki.png)
 
 
 ### Paneri
 the basket which holds the flowers and shoots them!
+
 
 ### Kantini, Mesiani, Mpasa
 the strings of the instrument. Kantini being the smallest and most thin, Mesiani being in the middle, and Mpasa being the Big and Thick string
