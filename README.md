@@ -18,6 +18,7 @@
 
 ### MPOUZOUKI
 The instrument
+
 ![mpouzouki](img/mpouzouki.png)
 
 
@@ -27,9 +28,12 @@ the basket which holds the flowers and shoots them!
 
 ### Kantini, Mesiani, Mpasa
 the strings of the instrument. Kantini being the smallest and most thin, Mesiani being in the middle, and Mpasa being the Big and Thick string
-![Kantini](img/Kantini.png)
-![Mesiani](img/Mesiani.png)
-![Mpasa](img/Mpasa.png)
+![Kantini](img/kantini.png)
+
+![Mesiani](img/mesiani.png)
+
+![Mpasa](img/mpasa.png)
+
 ### Mitropanos villager
 ![Mitropanos](img/mitropanos_villager.png)
 
